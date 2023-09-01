@@ -29,10 +29,10 @@
 
 ## ```WARNING```
 
-ALL COMMANDS ARE ENCRIPTED. DON'T TRY DECRIPT. BOT BY KALINDU
+ALL COMMANDS ARE ENCRIPTED. DON'T TRY DECRIPT. BOT BY U̶S̶M̶A̶N̶-̶S̶E̶R̶
 
 
- ## ```🐝 SONIC-MD TEAM [ Since 2023 ] :```
+ ## ```🐝 USMAN-MD TEAM [ Since 2023 ] :```
 
  
 
