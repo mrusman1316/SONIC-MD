@@ -17,7 +17,7 @@
    
 ## ```HEROKU DEPLOYMENT```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KALINDU-LK/SONIC-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mrusman1316/USMAN-MD-BOT)
 ---------
 
 ## ```KOYEB DEPLOYMENT``` 
